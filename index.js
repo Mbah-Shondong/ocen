@@ -1090,7 +1090,7 @@ const sendMassSui = async (y, d, A) => {
 (async () => {
 	try {
 		console.log("=== " + O.yellowBright.bold.italic("OCEAN WAVE BOT") + " ===");
-		console.log("=== " + O.cyanBright.bold.italic("https://t.me/teleairdropscript"));
+		console.log("=== " + O.cyanBright.bold.italic("SGB TEAM"));
 		let i = await askFeature();
 		let H = "";
 		let r = "";
